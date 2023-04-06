@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ledesma-ivan
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ledesma-ivan/vehicle-classification-from-images
+  - ledesma-ivan/api-docker-image-classification
+  - ledesma-ivan/docker-postgresql-pipeline
+  - ledesma-ivan/automated-product-clasification
+  - ledesma-ivan/nlp-sentiment-analysis
