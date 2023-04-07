@@ -19,5 +19,3 @@ My experience includes working on various Machine Learning projects, such as aut
 
 In addition to my Machine Learning skills, I also have experience in areas of Data Engineering , which allows me to design and implement efficient data pipelines.
 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
