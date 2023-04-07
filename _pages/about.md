@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Ivan, a Data Science student at William Brown National University and a Machine Learning Engineer passionate about solving business problems with cutting-edge technologies. I am currently working on side projects, including an exciting Docker PostgreSQL Data Pipeline project.
+Hello! i'm Data Science student at William Brown National University and a Machine Learning Engineer passionate about solving business problems with cutting-edge technologies. I am currently working on side projects, including an exciting Docker PostgreSQL Data Pipeline project.
 
 My experience includes working on various Machine Learning projects, such as automated product categorization for e-commerce, salary prediction models, product review classification, and home credit risk analysis for Anyone AI. I consider myself a self-starter, results-oriented and passionate about teamwork.
 
