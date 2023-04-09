@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>ledesma-ivan.github.io/blog/2021/diagrams/</loc>
-<lastmod>2021-07-04T17:39:00+00:00</lastmod>
-</url>
-<url>
 <loc>ledesma-ivan.github.io/projects/1_project/</loc>
-<lastmod>2023-04-08T14:24:34+00:00</lastmod>
+<lastmod>2023-04-09T20:47:39+00:00</lastmod>
 </url>
 <url>
 <loc>ledesma-ivan.github.io/projects/2_project/</loc>
-<lastmod>2023-04-08T14:24:34+00:00</lastmod>
+<lastmod>2023-04-09T20:47:39+00:00</lastmod>
 </url>
 <url>
 <loc>ledesma-ivan.github.io/projects/3_project/</loc>
-<lastmod>2023-04-08T14:24:34+00:00</lastmod>
+<lastmod>2023-04-09T20:47:39+00:00</lastmod>
 </url>
 <url>
 <loc>ledesma-ivan.github.io/projects/4_project/</loc>
-<lastmod>2023-04-08T14:24:34+00:00</lastmod>
+<lastmod>2023-04-09T20:47:39+00:00</lastmod>
 </url>
 <url>
 <loc>ledesma-ivan.github.io/projects/5_project/</loc>
-<lastmod>2023-04-08T14:24:34+00:00</lastmod>
+<lastmod>2023-04-09T20:47:39+00:00</lastmod>
 </url>
 <url>
 <loc>ledesma-ivan.github.io/projects/6_project/</loc>
-<lastmod>2023-04-08T14:24:34+00:00</lastmod>
+<lastmod>2023-04-09T20:47:39+00:00</lastmod>
 </url>
 <url>
 <loc>ledesma-ivan.github.io/</loc>
@@ -39,8 +35,5 @@
 </url>
 <url>
 <loc>ledesma-ivan.github.io/repositories/</loc>
-</url>
-<url>
-<loc>ledesma-ivan.github.io/blog/2021/</loc>
 </url>
 </urlset>
