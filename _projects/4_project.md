@@ -4,7 +4,7 @@ title: Docker Postgresql Pipeline
 description: another without an image
 img:
 importance: 3
-category: fun
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
