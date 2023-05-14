@@ -13,9 +13,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! i'm Data Science student at William Brown National University and a Machine Learning Engineer passionate about solving business problems with cutting-edge technologies. I am currently working on side projects, including an exciting [Docker PostgreSQL Data Pipeline](https://github.com/ledesma-ivan/docker-postgresql-pipeline)
+Soy un estudiante de Ciencia de Datos en la Universidad Nacional William Brown y un Ingeniero de Aprendizaje Automático apasionado por resolver problemas de negocios con tecnologías de vanguardia. Actualmente estoy trabajando en proyectos paralelos, incluyendo un emocionante [Docker PostgreSQL Data Pipeline](https://github.com/ledesma-ivan/docker-postgresql-pipeline)
 
-My experience includes working on various Machine Learning projects, such as automated product categorization for e-commerce, salary prediction models, product review classification, and home credit risk analysis for Anyone AI. I consider myself a self-starter, results-oriented and passionate about teamwork.
+Mi experiencia incluye trabajar en varios proyectos de Machine Learning, como la categorización automatizada de productos para el comercio electrónico, modelos de predicción salarial, clasificación de reseñas de productos y análisis de riesgo de crédito a la vivienda para Anyone AI. Me considero una persona emprendedora, orientada a resultados y apasionada por el trabajo en equipo.
 
-In addition to my Machine Learning skills, I also have experience in areas of Data Engineering , which allows me to design and implement efficient data pipelines.
+Además de mis habilidades en Machine Learning, también tengo experiencia en áreas de Data Engineering , lo que me permite diseñar e implementar pipelines de datos eficientes.
 
