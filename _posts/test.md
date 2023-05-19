@@ -42,3 +42,5 @@ sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
 {% endmermaid %}
+
+Proximamente vamos a hacer el primer post y este sera el eleminado
